@@ -1,8 +1,7 @@
 <!doctype html>
 <html lang="en">
 	<head>
-		<meta charset="utf-8">
-		<title>Home</title>
+		<title>Interactive Story</title>
 	
 	<style type="text/css">
 		
@@ -14,7 +13,7 @@
  
     text-align: center;
     color: white;
-    background-image: url("images/space.jpg");
+    background-image: url("images/fall.jpg");
     background-repeat: no-repeat;
     background-position: right top;
     background-attachment: fixed;}
@@ -45,9 +44,8 @@ li a:hover {
 		
 		
 	</style>
-	<meta name="keywords" content="HTML, CSS, XML, XHTML, JavaScript">
 	</html>
-	</head>
+	</head>                                                                                                                                                       
 	<body>
  <ul>
   <li><a class="active" href="index.html">Home</a></li>
@@ -56,8 +54,10 @@ li a:hover {
   <li><a href="about.html">About</a></li>
   <li><a href="Android_Project.html">Android Project</a></li>
   <li><a href="Interactive_Story.html">Interactive Story</a></li>
-  <li><a href="ATM_Python.html">Python Project</a></li>
 </ul>
-		<h1>Christian's Home Page!</h1>
+		<h1>Christian's ATM Python Project!</h1>
+<p>Here is my to my ATM Project.</p>
+<iframe height="400px" width="100%" src="https://repl.it/@CO2001/ATM-Python?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
 	</body>
 </html>
+
